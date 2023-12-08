@@ -10,6 +10,15 @@ The first stage involved adding up in the transactions made to the account there
 
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/fcb94376-342f-49ab-9559-f5cd4c20a9a9)
 
+**Step 2**
+The second part of the task involved calculating the individual revenue and expenditure values. All the losses within the column there that was transacted out of the account denote the expenditure and all the positives denote the gain of what went in. The problem is that we need to seperate these values, With a given formula, I devised a formula to make it work, I used the SUMIF formula where the condition was for all values that were higher than 0, that the sum be returned within the given cell. Similarly for the expenditure, I used ta formula conditional being less than 0, this denoted anything that was minus within the column would also be added up in a seperate cell.
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/f4686cc7-cd66-4417-9fa3-be3a5a1a5ea9)
+
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/0969ce1a-b150-48f2-af6f-78ed79b1aac6)
+
+
 
 
 
