@@ -29,6 +29,15 @@ I created a column in the Excel table that would make it easier to determine wha
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/b803fdf5-0649-4066-a942-c3d8020263c1)
 
 **Step 4**
+The next part of the task invovled sorting how much of the revenue that went out and got spent belonged to each subset, in a column there indicated whether each value was EQUIPMENT, CHARITY, CORPORATION TAX, CLIENT_REFUNDS, PROFESSIONAL_SERVICES, STAFF. Therefore I needed to make a formula that would add up all the individual amounts of expenditure going out and return it to the cell for that given subset.
+
+Here is the column, the indicator of which subset of spending the expenditure was given to.
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/d795cb2e-4ec4-4bd9-9ffa-aa465dc27225)
+
+
+
+
 
 
 
