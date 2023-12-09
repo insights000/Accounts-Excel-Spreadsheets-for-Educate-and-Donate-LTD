@@ -35,6 +35,13 @@ Here is the column, the indicator of which subset of spending the expenditure wa
 
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/d795cb2e-4ec4-4bd9-9ffa-aa465dc27225)
 
+The SUMIF function dealt with this problem once more, as it was thus concluded that in the statement the condition was the name of the category and if the condition was the name of the category, every category in that cell with that name was summed!
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/d406f440-c98c-4205-8c4c-cedbec6dda9d)
+
+
+
+
+
 
 
 
