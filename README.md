@@ -1,4 +1,4 @@
-# Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD
+# Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD- FUNCTIONS, SUM IF, IF, AND COUNTIF
 **Cleaning Data, Formulas and Functions, Tabulation**
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/b22ce576-3493-449e-ad5a-5a3b47e46e32)
 
@@ -27,6 +27,13 @@ I created a column in the Excel table that would make it easier to determine wha
 **Which resulted in this column being created:**
 
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/b803fdf5-0649-4066-a942-c3d8020263c1)
+
+To further create a useful metric, given that the table was long the user could just glance at how many transactions went in and how many transactions went out, the answer could be found with the COUNT IF Function. Thus I relayed the formula into the cell to work out how many transactions went in using this formula where the condition was to count how many of the transactions were lablled "IN" In the column or "OUT" as shown below
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/4d23dd4f-384d-4294-bf47-345afc138f55)
+
+Which returned, the value 111, 111 transactions were therefore made in, and 50 came out. These numbers can be shared, because they are not actually relevant to the data that is protected in this project.
+
 
 **Step 4**
 The next part of the task invovled sorting how much of the revenue that went out and got spent belonged to each subset, in a column there indicated whether each value was EQUIPMENT, CHARITY, CORPORATION TAX, CLIENT_REFUNDS, PROFESSIONAL_SERVICES, STAFF. Therefore I needed to make a formula that would add up all the individual amounts of expenditure going out and return it to the cell for that given subset.
