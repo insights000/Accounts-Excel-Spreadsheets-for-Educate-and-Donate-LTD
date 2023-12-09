@@ -18,6 +18,30 @@ The second part of the task involved calculating the individual revenue and expe
 
 ![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/0969ce1a-b150-48f2-af6f-78ed79b1aac6)
 
+**Step 3**
+**Creating IN AND OUT Columns**
+I created a column in the Excel table that would make it easier to determine what transaction went in and what transaction went out creating a new measure. The formula I used to achieve this was another if conditional whereby the indicator was either "IN" or "OUT" and the condition was if the cell is less than 0, then "OUT", otherwise IN, take a look below at an example of the formula that was dragged down through the column to form the IN AND OUT column.
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/506a4f81-ffef-4011-89df-ad99f86e4ddf)
+
+**Which resulted in this column being created:**
+
+![image](https://github.com/insights000/Accounts-Excel-Spreadsheets-for-Educate-and-Donate-LTD/assets/150028138/b803fdf5-0649-4066-a942-c3d8020263c1)
+
+**Step 4**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
